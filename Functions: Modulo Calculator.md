@@ -23,3 +23,7 @@ Add code Here
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/8b68a9eb-335f-4f30-acb4-087dbbce5820)
+
+
+## Result
+Thus,the Python program that defines a function which accepts two values and returns their modulo using the % operator is created successfully.
